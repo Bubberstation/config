@@ -73,7 +73,13 @@
 
 # Anything in here will warn the player if said in IC, dead chat or OOC, the player must approve their message to send it
 [soft_shared]
-"rape" = "This term has been used for 'jokes' that lead to the harm of others. It's easy to forget that there are people who have negative experiences with sexual assault. If you use it incorrectly, you risk being banned."
+"rape" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
+"raped" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
+"raping" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
+"rapist" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
+"raper" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
+"molest" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
+"molestor" = "The improper use of this term such as bringing up sexual assault in public to nonconsenting parties creates an unsafe OOC environment for players and survivors of sexual assault. If you use it incorrectly, you risk being banned."
 "faggot" = "This is a homophobic slur. It is soft-filtered only because of its use for kink purposes. Any use other than that, or a use that serves that purpose maliciously or incorrectly, risks earning you a ban."
 "fag" = "This is a homophobic slur. It is soft-filtered only because of its use for kink purposes. Any use other than that, or a use that serves that purpose maliciously or incorrectly, risks earning you a ban."
 "fagg" = "This is a homophobic slur. It is soft-filtered only because of its use for kink purposes. Any use other than that, or a use that serves that purpose maliciously or incorrectly, risks earning you a ban."
