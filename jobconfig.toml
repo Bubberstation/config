@@ -16,6 +16,8 @@
 ## "# Total Positions" should always be changed to "Total Positions", no additional spacing.
 ## Best of luck editing!
 
+## Edit as of fork "Job-Limit-Increases": All jobs that I considered reasonable to have a limit increase have been increased.
+
 [AI]
 "Playtime Requirements" = 2400
 "Required Account Age" = 30
@@ -31,8 +33,8 @@
 [ATMOSPHERIC_TECHNICIAN]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 2
+"Spawn Positions" = 3
+"Total Positions" = 3
 
 [BARBER]
 "Playtime Requirements" = 0
@@ -73,8 +75,8 @@
 [CARGO_TECHNICIAN]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 4
+"Total Positions" = 4
 
 [CHAPLAIN]
 "Playtime Requirements" = 0
@@ -85,7 +87,7 @@
 [CHEMIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [CHIEF_ENGINEER]
@@ -109,33 +111,33 @@
 [COOK]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [CORRECTIONS_OFFICER]
 "Playtime Requirements" = 450
 "Required Account Age" = 7
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [CURATOR]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [CUSTOMS_AGENT]
 "Playtime Requirements" = 360
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [CYBORG]
 "Playtime Requirements" = 120
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
-
+"Spawn Positions" = 5
+"Total Positions" = 5
+#POSTPONED CHANGES! Detective spawn amount intended to be updated to 2. However, extra revolver must spawn in all playable maps!
 [DETECTIVE]
 "Playtime Requirements" = 300
 "Required Account Age" = 0
@@ -145,13 +147,13 @@
 [ENGINEERING_GUARD]
 "Playtime Requirements" = 180
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [GENETICIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [HEAD_OF_PERSONNEL]
@@ -169,20 +171,20 @@
 [JANITOR]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [LAWYER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [MEDICAL_DOCTOR]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
+"Spawn Positions" = 6
+"Total Positions" = 6
 
 [MIME]
 "Playtime Requirements" = 0
@@ -199,20 +201,20 @@
 [ORDERLY]
 "Playtime Requirements" = 360
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [PARAMEDIC]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 4
+"Total Positions" = 4
 
 [PRISONER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [PSYCHOLOGIST]
 "Playtime Requirements" = 0
@@ -235,20 +237,20 @@
 [ROBOTICIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 2
+"Spawn Positions" = 3
+"Total Positions" = 3
 
 [SCIENCE_GUARD]
 "Playtime Requirements" = 360
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [SCIENTIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 4
+"Total Positions" = 4
 
 [SECURITY_MEDIC]
 "Playtime Requirements" = 360
@@ -259,20 +261,20 @@
 [SECURITY_OFFICER]
 "Playtime Requirements" = 300
 "Required Account Age" = 0
-"Spawn Positions" = 4
-"Total Positions" = 4
+"Spawn Positions" = 8
+"Total Positions" = 8
 
 [SHAFT_MINER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [STATION_ENGINEER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 3
+"Spawn Positions" = 6
+"Total Positions" = 6
 
 [VANGUARD_OPERATIVE]
 "Playtime Requirements" = 400
@@ -283,8 +285,8 @@
 [VIROLOGIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [WARDEN]
 "Playtime Requirements" = 600
