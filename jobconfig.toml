@@ -137,12 +137,12 @@
 "Required Account Age" = 0
 "Spawn Positions" = 5
 "Total Positions" = 5
-#POSTPONED CHANGES! Detective spawn amount intended to be updated to 2. However, extra revolver must spawn in all playable maps!
+
 [DETECTIVE]
 "Playtime Requirements" = 300
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [ENGINEERING_GUARD]
 "Playtime Requirements" = 180
