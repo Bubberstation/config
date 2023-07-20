@@ -261,8 +261,8 @@
 [SECURITY_OFFICER]
 "Playtime Requirements" = 300
 "Required Account Age" = 0
-"Spawn Positions" = 8
-"Total Positions" = 8
+"Spawn Positions" = 7
+"Total Positions" = 7
 
 [SHAFT_MINER]
 "Playtime Requirements" = 0
