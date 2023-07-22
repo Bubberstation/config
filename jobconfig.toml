@@ -129,8 +129,8 @@
 [CUSTOMS_AGENT]
 "Playtime Requirements" = 360
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 1
+"Total Positions" = 1
 
 [CYBORG]
 "Playtime Requirements" = 120
