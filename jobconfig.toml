@@ -32,7 +32,7 @@
 [ATMOSPHERIC_TECHNICIAN]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 3
 "Total Positions" = 3
 
 [BARBER]
@@ -116,7 +116,7 @@
 [CORRECTIONS_OFFICER]
 "Playtime Requirements" = 450
 "Required Account Age" = 7
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [CURATOR]
