@@ -16,8 +16,9 @@
 ## "# Total Positions" should always be changed to "Total Positions", no additional spacing.
 ## Best of luck editing!
 
+
 [AI]
-"Playtime Requirements" = 2400
+"Playtime Requirements" = 1200
 "Required Account Age" = 30
 "Spawn Positions" = 1
 "Total Positions" = 1
@@ -31,8 +32,8 @@
 [ATMOSPHERIC_TECHNICIAN]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
-"Total Positions" = 2
+"Spawn Positions" = 3
+"Total Positions" = 3
 
 [BARBER]
 "Playtime Requirements" = 0
@@ -73,8 +74,8 @@
 [CARGO_TECHNICIAN]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [CHAPLAIN]
 "Playtime Requirements" = 0
@@ -85,7 +86,7 @@
 [CHEMIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [CHIEF_ENGINEER]
@@ -109,14 +110,14 @@
 [COOK]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [CORRECTIONS_OFFICER]
 "Playtime Requirements" = 450
 "Required Account Age" = 7
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 2
+"Total Positions" = 2
 
 [CURATOR]
 "Playtime Requirements" = 0
@@ -133,8 +134,8 @@
 [CYBORG]
 "Playtime Requirements" = 120
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [DETECTIVE]
 "Playtime Requirements" = 300
@@ -151,7 +152,7 @@
 [GENETICIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [HEAD_OF_PERSONNEL]
@@ -169,20 +170,20 @@
 [JANITOR]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [LAWYER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [MEDICAL_DOCTOR]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [MIME]
 "Playtime Requirements" = 0
@@ -205,14 +206,14 @@
 [PARAMEDIC]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 4
+"Total Positions" = 4
 
 [PRISONER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 3
-"Total Positions" = 3
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [PSYCHOLOGIST]
 "Playtime Requirements" = 0
@@ -235,7 +236,7 @@
 [ROBOTICIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 1
+"Spawn Positions" = 2
 "Total Positions" = 2
 
 [SCIENCE_GUARD]
@@ -247,8 +248,8 @@
 [SCIENTIST]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 2
+"Spawn Positions" = 4
+"Total Positions" = 4
 
 [SECURITY_MEDIC]
 "Playtime Requirements" = 360
@@ -271,8 +272,8 @@
 [STATION_ENGINEER]
 "Playtime Requirements" = 0
 "Required Account Age" = 0
-"Spawn Positions" = 2
-"Total Positions" = 3
+"Spawn Positions" = 5
+"Total Positions" = 5
 
 [VANGUARD_OPERATIVE]
 "Playtime Requirements" = 400
