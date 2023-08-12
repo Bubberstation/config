@@ -254,8 +254,8 @@
 [SECURITY_MEDIC]
 "Playtime Requirements" = 360
 "Required Account Age" = 7
-"Spawn Positions" = 1
-"Total Positions" = 1
+"Spawn Positions" = 0
+"Total Positions" = 0
 
 [SECURITY_OFFICER]
 "Playtime Requirements" = 300
