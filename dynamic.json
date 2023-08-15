@@ -6,10 +6,16 @@
 		"midround_upper_bound": 54000,
 		"midround_lower_bound": 6000,
 		"max_threat_level": 100,
-		"hijacked_random_event_injection_chance_modifier": 10,
+		"hijacked_random_event_injection_chance_modifier": 0,
 		"low_pop_player_threshold": 20,
 		"low_pop_maximum_threat": 10,
-		"latejoin_roll_chance": 50
+		"latejoin_roll_chance": 50,
+		"roundstart_split_curve_centre": 2,
+		"roundstart_split_curve_width": 1,
+		"threat_curve_centre": -3,
+		"threat_curve_width": 1,
+		"latejoin_delay_min": 3000,
+		"latejoin_delay_max": 6000	
 	},
 	"Roundstart": {
 		"Traitors": {
