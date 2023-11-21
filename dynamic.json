@@ -44,7 +44,7 @@
 		"Blood Cult": {
 			"cost": 50,
 			"minimum_players": 30,
-			"weight": 1,
+			"weight": 0,
 			"minimum_required_age": 7,
 			"requirements": [
 				40,
