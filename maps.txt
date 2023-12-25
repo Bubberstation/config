@@ -19,12 +19,11 @@ endmap
 
 map metastation
 	minplayers 30
-endmap
+  endmap
 
 map deltastation
 	votable
-	minplayers 30
-endmap
+  endmap
 
 map kilostation
 	votable
