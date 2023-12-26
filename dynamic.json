@@ -214,7 +214,7 @@
 		},
 
 		"Alien Infestation": {
-			"cost": 20,
+			"cost": 15,
 			"weight": 2,
 			"minimum_required_age": 7,
 			"repeatable": 0,
@@ -223,7 +223,7 @@
 				90,
 				80,
 				70,
-				70,
+				50,
 				50,
 				30,
 				30,
