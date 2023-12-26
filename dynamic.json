@@ -13,7 +13,7 @@
 		"Traitors": {
 			"cost": 10,
 			"scaling_cost": 9,
-			"weight": 10,
+			"weight": 9,
 			"minimum_required_age": 7
 		},
 
