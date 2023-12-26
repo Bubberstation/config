@@ -13,7 +13,7 @@
 		"Traitors": {
 			"cost": 10,
 			"scaling_cost": 9,
-			"weight": 12,
+			"weight": 10,
 			"minimum_required_age": 7
 		},
 
@@ -24,14 +24,14 @@
 
 		"Changelings": {
 			"cost": 15,
-			"weight": 3,
+			"weight": 4,
 			"minimum_players": 20,
 			"minimum_required_age": 7
 		},
 
 		"Heretics": {
 			"cost": 15,
-			"weight": 3,
+			"weight": 4,
 			"minimum_players": 25,
 			"minimum_required_age": 7
 		},
@@ -80,7 +80,7 @@
 		},
 
 		"Revolution": {
-			"cost": 0,
+			"cost": 15,
 			"weight": 1,
 			"minimum_players": 25,
 			"minimum_required_age": 7,
@@ -117,7 +117,7 @@
 
 	"Midround": {
 		"Syndicate Sleeper Agent": {
-			"weight": 15,
+			"weight": 10,
 			"cost": 5,
 			"minimum_required_age": 7,
 			"requirements": [
@@ -195,7 +195,7 @@
 		},
 
 		"Blob Infection": {
-			"weight": 2,
+			"weight": 4,
 			"cost": 15,
 			"minimum_required_age": 7,
 			"minimum_players": 30,
@@ -289,7 +289,7 @@
 		},
 
 		"Space Ninja": {
-			"weight": 3,
+			"weight": 5,
 			"cost": 15,
 			"minimum_players": 30,
 			"minimum_required_age": 7,
