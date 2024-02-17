@@ -49,7 +49,7 @@
 [BLUESHIELD]
 "Playtime Requirements" = 1200
 "Required Account Age" = 7
-"Required Character Age" = 24
+"Required Character Age" = 25
 "Spawn Positions" = 1
 "Total Positions" = 1
 
@@ -68,7 +68,7 @@
 [CAPTAIN]
 "Playtime Requirements" = 1200
 "Required Account Age" = 14
-"Required Character Age" = 30
+"Required Character Age" = 28
 "Spawn Positions" = 1
 "Total Positions" = 1
 
@@ -93,14 +93,14 @@
 [CHIEF_ENGINEER]
 "Playtime Requirements" = 1200
 "Required Account Age" = 7
-"Required Character Age" = 30
+"Required Character Age" = 28
 "Spawn Positions" = 1
 "Total Positions" = 1
 
 [CHIEF_MEDICAL_OFFICER]
 "Playtime Requirements" = 1200
 "Required Account Age" = 7
-"Required Character Age" = 30
+"Required Character Age" = 28
 "Spawn Positions" = 1
 "Total Positions" = 1
 
@@ -161,14 +161,14 @@
 [HEAD_OF_PERSONNEL]
 "Playtime Requirements" = 1200
 "Required Account Age" = 14
-"Required Character Age" = 24
+"Required Character Age" = 25
 "Spawn Positions" = 1
 "Total Positions" = 1
 
 [HEAD_OF_SECURITY]
 "Playtime Requirements" = 1800
 "Required Account Age" = 21
-"Required Character Age" = 30
+"Required Character Age" = 28
 "Spawn Positions" = 1
 "Total Positions" = 1
 
@@ -199,7 +199,7 @@
 [NANOTRASEN_CONSULTANT]
 "Playtime Requirements" = 1800
 "Required Account Age" = 21
-"Required Character Age" = 24
+"Required Character Age" = 25
 "Spawn Positions" = 1
 "Total Positions" = 1
 
@@ -236,7 +236,7 @@
 [RESEARCH_DIRECTOR]
 "Playtime Requirements" = 1200
 "Required Account Age" = 7
-"Required Character Age" = 30
+"Required Character Age" = 28
 "Spawn Positions" = 1
 "Total Positions" = 1
 
