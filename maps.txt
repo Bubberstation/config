@@ -62,7 +62,6 @@ endmap
 
 map blueshift
 	minplayers 70
-	votable
 endmap
 
 map voidraptor
