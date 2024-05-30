@@ -17,7 +17,7 @@
 ## Best of luck editing!
 
 [AI]
-"Playtime Requirements" = 2400
+"Playtime Requirements" = 3600
 "Required Account Age" = 30
 "Spawn Positions" = 1
 "Total Positions" = 1
@@ -191,7 +191,7 @@
 "Total Positions" = 1
 
 [NANOTRASEN_CONSULTANT]
-"Playtime Requirements" = 3600
+"Playtime Requirements" = 2400
 "Required Account Age" = 21
 "Spawn Positions" = 1
 "Total Positions" = 1
