@@ -101,3 +101,10 @@ map boxstation
 	maxplayers 0
 	votable
 endmap
+
+
+map wawastation
+	votable
+	minplayers 40
+endmap
+
