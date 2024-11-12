@@ -1,4 +1,3 @@
-
 ## A flat bonus to give to all maps after a map vote is concluded.
 MAP_VOTE_FLAT_BONUS 0
 
