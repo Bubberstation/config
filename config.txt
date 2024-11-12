@@ -9,6 +9,7 @@ $include interviews.txt
 $include lua.txt
 $include secret/discord.txt
 $include auxtools.txt
+$include map_vote.txt
 $include bubbers/intern_tags.txt
 $include bubbers/bubbers_config.txt
 
