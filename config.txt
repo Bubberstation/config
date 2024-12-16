@@ -302,7 +302,7 @@ DISCORDBOTCOMMANDPREFIX ?
 ## Game Logs address
 ## Incase you don't have a fancy parsing system, but still want players to be able to find where you keep your server's logs.
 ## Example: https://tgstation13.org/parsed-logs/basil/data/logs/
-GAMELOGURL https://parsedlogs.bubberstation.org/logs/
+GAMELOGURL https://parsedlogs.bubberstation.org/
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
 # BANAPPEALS http://justanotherday.example.com
