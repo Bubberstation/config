@@ -37,7 +37,7 @@ endmap
 
 map catwalkstation
 	minplayers 12
-	votable
+#	votable
 endmap
 
 map metastation
@@ -59,14 +59,14 @@ endmap
 
 map wawastation
 	minplayers 12
-	votable
+#	votable
 endmap
 
 # Bubberstation maps.
 
 map biodome
 	minplayers 20
-	votable
+#	votable
 endmap
 
 map blueshift
