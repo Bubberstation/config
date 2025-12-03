@@ -444,7 +444,7 @@ ROUNDSTART_RACES protean
 ## The probability for nonhuman cadavers to spawn in the morgue.
 ## Only used if MORGUE_CADAVER_DISABLE_NONHUMANS is commented out
 ## If left undefined, defaults to 50%.
-MORGUE_CADAVER_OTHER_SPECIES_PROBABILITY 50
+MORGUE_CADAVER_OTHER_SPECIES_PROBABILITY 25
 
 ## A single specific Species ID to supplement human morgue cadavers.
 ## Set MORGUE_CADAVER_OTHER_SPECIES_PROBABILITY to determine the chances between being a human and this specific species.
