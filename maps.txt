@@ -18,59 +18,52 @@ endmap
 # Production-level maps.
 
 #map birdshot
-	#default
-#	maxplayers 66
 #	votable
 #endmap
 
 map deltastation
-	minplayers 25
+	minplayers 45
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation
 endmap
 
 map icebox
-	minplayers 12
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/icebox
 endmap
 
 map catwalkstation
-	minplayers 12
 #	votable
 endmap
 
 map metastation
-	#voteweight 0.5
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation
 endmap
 
 map tramstation
-	minplayers 15
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation
 endmap
 
 map nebulastation
-	minplayers 15
+	minplayers
 	votable
 endmap
 
 map wawastation
-	minplayers 12
 #	votable
 endmap
 
 # Bubberstation maps.
 
 map biodome
-	minplayers 20
-#	votable
+	minplayers 37
+	votable
 endmap
 
 map blueshift
-	minplayers 30
+	minplayers 45
 	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
 	webmap_url https://webmap.affectedarc07.co.uk/maps/nova/blueshift
@@ -82,28 +75,27 @@ map boxstation
 endmap
 
 map kilostation
-	maxplayers 50
+	maxplayers 44
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/kilostation
 endmap
 
 map moonstation
-	minplayers 20
 	votable
 endmap
 
 map voidraptor
-	minplayers 20
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/nova/voidraptor
 endmap
 
 map rimpoint
-	votable
+	minplayers 37
 	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/rimpoint
 endmap
 
 map sigma_octantis
+	minplayers 37
 	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/sigmaoctantis
 endmap
 
