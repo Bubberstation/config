@@ -22,7 +22,7 @@ endmap
 #endmap
 
 map deltastation
-	minplayers 45
+	minplayers 42
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation
 endmap
@@ -58,12 +58,12 @@ endmap
 # Bubberstation maps.
 
 map biodome
-	minplayers 37
+	minplayers 34
 	votable
 endmap
 
 map blueshift
-	minplayers 45
+	minplayers 42
 	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
 	webmap_url https://webmap.affectedarc07.co.uk/maps/nova/blueshift
@@ -75,7 +75,7 @@ map boxstation
 endmap
 
 map kilostation
-	maxplayers 44
+	maxplayers 37
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/kilostation
 endmap
@@ -90,12 +90,12 @@ map voidraptor
 endmap
 
 map rimpoint
-	minplayers 37
+	minplayers 34
 	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/rimpoint
 endmap
 
 map sigma_octantis
-	minplayers 37
+	minplayers 34
 	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/sigmaoctantis
 endmap
 
