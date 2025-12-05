@@ -19,17 +19,18 @@ endmap
 
 #map birdshot
 #	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/birdshot/
 #endmap
 
 map deltastation
 	minplayers 45
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation/
 endmap
 
 map icebox
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/icebox
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/icebox/
 endmap
 
 map catwalkstation
@@ -38,21 +39,21 @@ endmap
 
 map metastation
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation/
 endmap
 
 map tramstation
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
 
 map nebulastation
-	minplayers
 	votable
 endmap
 
 map wawastation
 #	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/wawastation/
 endmap
 
 # Bubberstation maps.
@@ -60,43 +61,46 @@ endmap
 map biodome
 	minplayers 37
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/biodome/
 endmap
 
 map blueshift
 	minplayers 45
 	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
-	webmap_url https://webmap.affectedarc07.co.uk/maps/nova/blueshift
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/blueshift/
 endmap
 
 map boxstation
 	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1410026686749085757
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
 endmap
 
 map kilostation
 	maxplayers 44
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/kilostation
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/kilostation/
 endmap
 
 map moonstation
 	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/moonstation/
 endmap
 
 map voidraptor
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/nova/voidraptor
+	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/voidraptor/
 endmap
 
 map rimpoint
 	minplayers 37
-	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/rimpoint
+	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/rimpoint/
 endmap
 
 map sigma_octantis
 	minplayers 37
-	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/sigmaoctantis
+	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/sigmaoctantis/
 endmap
 
 # Debug-only maps.
