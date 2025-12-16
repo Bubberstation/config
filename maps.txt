@@ -79,7 +79,7 @@ map kilostation
 endmap
 
 map moonstation
-	minplayers 35
+	minplayers 37
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/moonstation/
 endmap
