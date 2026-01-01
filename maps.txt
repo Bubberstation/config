@@ -54,7 +54,7 @@ endmap
 
 map nebulastation
 	minplayers 15
-	votable
+#	votable
 endmap
 
 map wawastation
