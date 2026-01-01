@@ -43,7 +43,7 @@ map tramstation
 endmap
 
 map nebulastation
-	votable
+#	votable
 endmap
 
 map wawastation
