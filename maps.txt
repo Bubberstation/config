@@ -56,6 +56,7 @@ endmap
 map biodome
 	minplayers 37
 	votable
+	feedbacklink https://discord.com/channels/1059199070016655462/1460406585401544867
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/biodome/
 endmap
 
