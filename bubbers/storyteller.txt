@@ -6,3 +6,5 @@
 # Percentage of rounds to have storyteller hidden as secret
 STORYTELLER_SECRET_PERCENTAGE 33
 
+## Disable storyteller crew antagonist creation after this many minutes. Values less than 0 means don't disable.
+DISALLOW_CREW_ANTAGS_TIME_THRESHOLD 130
