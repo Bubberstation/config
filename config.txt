@@ -28,7 +28,7 @@ $include bubbers/vore_config.txt
 @SERVERNAME Bubberstation [18+ enforced, furry RP w/ antags!]
 
 ## Server tagline: This will appear right below the server's title.
-SERVERTAGLINE Improve your roleplay with us! Huge lore update to inspire your characters
+SERVERTAGLINE Play your original characters with us! Lighthearted roleplay with action AND ERP.
 
 ## Discord Link: This is the link to Bubberstation's discord server
 @DISCORD_LINK https://discord.gg/AvjrTqnqEx
