@@ -309,7 +309,7 @@ RULESURL https://wiki.bubberstation.org/index.php?title=Rules
 GITHUBURL https://github.com/Bubberstation/Bubberstation
 
 ## Discord bot command prefix, if the discord bot is used
-DISCORDBOTCOMMANDPREFIX ?
+DISCORDBOTCOMMANDPREFIX !
 
 ## Round specific stats address
 /FOR## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
