@@ -38,6 +38,7 @@ map metastation
 endmap
 
 map tramstation
+	minplayers 30
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
