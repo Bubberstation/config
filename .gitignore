@@ -2,3 +2,4 @@ word_filter.toml
 comms.txt
 dbconfig.txt
 resources.txt
+/bloopers/**/*
