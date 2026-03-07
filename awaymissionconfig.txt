@@ -17,3 +17,4 @@ _maps/RandomZLevels/SnowCabin.dmm
 #_maps/RandomZLevels/blackmesa.dmm
 _maps/RandomZLevels/museum.dmm
 _maps/RandomZLevels/heretic.dmm
+_maps_RandomZLevels/maintsrooms.dmm
