@@ -429,6 +429,7 @@ ROUNDSTART_RACES shadekin
 ROUNDSTART_RACES lesser_abductor
 ROUNDSTART_RACES protean
 ROUNDSTART_RACES serpentid
+ROUNDSTART_RACES shrimp
 
 ##-------------------------------------------------------------------------------------------
 
