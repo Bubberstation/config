@@ -110,7 +110,7 @@ map ouroboros
 	votable
 endmap
 
-map cubicstation
+map squarestation
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
 endmap
