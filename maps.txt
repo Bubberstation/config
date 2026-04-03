@@ -19,7 +19,7 @@ endmap
 
 map deltastation
 	minplayers 45
-#	votable
+	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation/
 endmap
 
@@ -33,7 +33,7 @@ map catwalkstation
 endmap
 
 map metastation
-#	votable
+	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation/
 endmap
 
@@ -63,20 +63,20 @@ endmap
 
 map blueshift
 	minplayers 45
-#	votable
+	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/blueshift/
 endmap
 
 map boxstation
-#	votable
+	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1410026686749085757
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
 endmap
 
 map kilostation
 	maxplayers 44
-#	votable
+	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/kilostation/
 endmap
 
@@ -87,7 +87,7 @@ map moonstation
 endmap
 
 map voidraptor
-#	votable
+	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/voidraptor/
 endmap
 
@@ -109,27 +109,6 @@ endmap
 map ouroboros
 	votable
 endmap
-
-map squarestation
-	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
-endmap
-
-map megastation
-	votable
-	maxplayers 44
-	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/kilostation/
-endmap
-
-map parastation
-	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/metastation/
-endmap
-
-map zetastation
-	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation/
-    
 
 # Debug-only maps.
 
