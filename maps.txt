@@ -100,11 +100,6 @@ map sigma_octantis
 	webmap_url https://webmap.affectedarc07.co.uk/maps/effigy/sigmaoctantis/
 endmap
 
-map cardinalstation
-	minplayers 37
-	votable
-endmap
-
 map ouroboros
 	votable
 endmap
