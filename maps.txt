@@ -105,6 +105,13 @@ map ouroboros
 	votable
 endmap
 
+map northstar
+	votable
+	minplayers 37
+	feedbacklink https://discord.com/channels/1059199070016655462/1503912764148551871
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/northstar/
+endmap
+
 # Debug-only maps.
 
 map gateway_test
