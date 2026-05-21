@@ -112,6 +112,11 @@ map northstar
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/northstar/
 endmap
 
+map pubbystation
+	votable
+	webmap_url https://webmap.affectedarc07.co.uk/maps/fulp/pubbystation/
+endmap
+
 # Debug-only maps.
 
 map gateway_test
