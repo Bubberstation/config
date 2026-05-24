@@ -19,7 +19,7 @@ endmap
 
 map deltastation
 	minplayers 45
-	votable
+#	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation/
 endmap
 
@@ -39,7 +39,7 @@ endmap
 
 map tramstation
 	minplayers 30
-	votable
+#	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
 
@@ -63,7 +63,7 @@ endmap
 
 map blueshift
 	minplayers 45
-	votable
+#	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1376747654339624970
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/blueshift/
 endmap
