@@ -38,7 +38,7 @@ map metastation
 endmap
 
 map tramstation
-	minplayers 30
+	minplayers 21
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
@@ -87,7 +87,7 @@ map moonstation
 endmap
 
 map voidraptor
-#	votable
+	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/voidraptor/
 endmap
 
