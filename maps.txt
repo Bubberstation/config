@@ -74,10 +74,10 @@ map boxstation
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
 endmap
 
-map kilostation
+map kilostationbubber
 	maxplayers 44
+	feedbacklink https://discord.com/channels/1059199070016655462/1523059004790542537
 	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/kilostation/
 endmap
 
 map moonstation
