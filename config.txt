@@ -331,12 +331,10 @@ GAMELOGURL https://parsedlogs.bubberstation.org/logs/
 ## from https://github.com/yt-dlp/yt-dlp/releases
 ## or your package manager
 ## The default value assumes yt-dlp is in your system PATH
-INVOKE_YOUTUBEDL yt-dlp --proxy "socks5://100.86.66.7:1055" 
+INVOKE_YOUTUBEDL yt-dlp --proxy socks5://100.86.66.7:1080 --geo-bypass --format best --dump-single-json --no-playlist
 
 ## YT-DLP AUTHENTICATION - Uncomment to enable
 #YOUTUBEDL_AUTH
-
-
 
 ## Comment this out to disable users ability to use the request internet sounds to be played.
 REQUEST_INTERNET_SOUND
