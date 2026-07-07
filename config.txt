@@ -331,10 +331,10 @@ GAMELOGURL https://parsedlogs.bubberstation.org/logs/
 ## from https://github.com/yt-dlp/yt-dlp/releases
 ## or your package manager
 ## The default value assumes yt-dlp is in your system PATH
-INVOKE_YOUTUBEDL /home/tgstation-server/.local/bin/yt-dlp
+INVOKE_YOUTUBEDL yt-dlp --proxy "socks5://100.86.66.7:1055" 
 
 ## YT-DLP AUTHENTICATION - Uncomment to enable
-YOUTUBEDL_AUTH
+#YOUTUBEDL_AUTH
 
 
 
