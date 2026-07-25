@@ -429,6 +429,14 @@ ROUNDSTART_RACES lesser_abductor
 ROUNDSTART_RACES protean
 ROUNDSTART_RACES serpentid
 
+## HALLOWEEN RACES DOWN THERE - FOR MEME CHARACTER EVENT
+ROUNDSTART_RACES spirit
+ROUNDSTART_RACES dullahan
+ROUNDSTART_RACES shadow
+ROUNDSTART_RACES skeleton
+ROUNDSTART_RACES mutant
+ROUNDSTART_RACES vampire
+
 ##-------------------------------------------------------------------------------------------
 
 ## Roundstart no-reset races
