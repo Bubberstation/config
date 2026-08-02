@@ -19,7 +19,7 @@ endmap
 
 map deltastation
 	minplayers 45
-#	votable
+	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation/
 endmap
 
@@ -102,11 +102,11 @@ map sigma_octantis
 endmap
 
 map ouroboros
-	votable
+#	votable
 endmap
 
 map northstar
-	votable
+#	votable
 	minplayers 37
 	feedbacklink https://discord.com/channels/1059199070016655462/1503912764148551871
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/northstar/
