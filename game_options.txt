@@ -291,7 +291,7 @@ LAW_WEIGHT custom,0
 ## standard-ish laws. These are fairly ok to run
 ## Unique AI station trait uses weights so we don't want asimov
 #SKYRAT EDIT ADDITION BEGIN
-LAW_WEIGHT armadyne_safeguard,40
+LAW_WEIGHT armadyne_safeguard,0
 LAW_WEIGHT dagothbot,8
 #SKYRAT EDIT ADDITION END
 LAW_WEIGHT asimov,0
