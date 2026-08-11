@@ -701,7 +701,6 @@ TTS_VOICE_BLACKLIST Woman (Youthful 2)
 TTS_VOICE_BLACKLIST Woman (Student)
 TTS_VOICE_BLACKLIST Man (Racist)
 
-
 ## Uncomment and replace with the URL where users can verify their byond accounts
 #FORUM_LINK_URI
 
@@ -710,3 +709,9 @@ ALLOW_TRACY_START
 
 ## Uncomment to allow admins with +DEBUG to queue the next round to run the byond-tracy profiler.
 ALLOW_TRACY_QUEUE
+
+# Which CIDs will not be considered for stickybans. This is the default CID that Wine spits out,
+# and for the purpose of not default banning all Linux players, we'll just ignore it.
+# People can spoof this CID and ignore that element of stickybans forever, but they can equally
+# just keep generating new ones. Kind of doesn't matter.
+IGNORED_CIDS 4055623708

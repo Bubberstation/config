@@ -47,9 +47,10 @@ map nebulastation
 #	votable
 endmap
 
-map wawastation
-#	votable
-	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/wawastation/
+map kilostation
+	votable
+	maxplayers 40
+	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/kilostation/
 endmap
 
 # Bubberstation maps.
@@ -72,11 +73,6 @@ map boxstation
 	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1410026686749085757
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/boxstation/
-endmap
-
-map kilostation
-	maxplayers 44
-	votable
 endmap
 
 map moonstation
