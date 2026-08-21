@@ -48,7 +48,7 @@ map nebulastation
 endmap
 
 map kilostation
-#	votable
+	votable
 	maxplayers 40
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/kilostation/
 endmap
