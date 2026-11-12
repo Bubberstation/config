@@ -30,7 +30,7 @@ endmap
 
 map catwalkstation
 	minplayers 21
-	votable
+#	votable
 endmap
 
 map metastation
