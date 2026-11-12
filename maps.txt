@@ -39,7 +39,7 @@ map metastation
 endmap
 
 map tramstation
-	minplayers 21
+    minplayers 25
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/tramstation/
 endmap
@@ -50,14 +50,14 @@ endmap
 
 map kilostation
 	votable
-	maxplayers 40
+	maxplayers 32
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/kilostation/
 endmap
 
 # Bubberstation maps.
 
 map biodome
-	minplayers 37
+    minplayers 37
 	votable
 	feedbacklink https://discord.com/channels/1059199070016655462/1460406585401544867
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/biodome/
